@@ -19,7 +19,7 @@ local ScriptConfig = {
         Name = "ReignPiece",
         Url = 'https://vss.pandadevelopment.net/virtual/file/efd91db94ee24cfc',
         Ids = {
-            78466992256287, 
+            78466992256287
         }
     },
 }
