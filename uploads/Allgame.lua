@@ -15,6 +15,13 @@ local ScriptConfig = {
             98826438856089,
         }
     },
+    {
+        Name = "Reign Piece",
+        Url = 'loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/efd91db94ee24cfc"))()',
+        Ids = {
+            78466992256287, 
+        }
+    },
 }
 
 local MapScripts = {}
