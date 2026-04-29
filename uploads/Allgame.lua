@@ -3,7 +3,7 @@ local HttpService = game:GetService("HttpService")
 
 local ScriptConfig = {
     {
-        Name = "Sailor Script",
+        Name = "SailorScript",
         Url = 'https://vss.pandadevelopment.net/virtual/file/f6da0cd37d024e99',
         Ids = {
             77747658251236, 
@@ -16,7 +16,7 @@ local ScriptConfig = {
         }
     },
     {
-        Name = "Reign Piece",
+        Name = "ReignPiece",
         Url = 'https://vss.pandadevelopment.net/virtual/file/efd91db94ee24cfc',
         Ids = {
             78466992256287, 
