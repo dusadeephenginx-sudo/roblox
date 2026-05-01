@@ -26,7 +26,8 @@ local ScriptConfig = {
         Name = "LineagePiece",
         Url = 'https://vss.pandadevelopment.net/virtual/file/9d859efbdce84d62',
         Ids = {
-            104761395312874
+            104761395312874,
+            121357213553162,
         }
     },
 }
